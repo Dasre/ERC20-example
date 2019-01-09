@@ -14,6 +14,6 @@ ERC20 example
         _mint(msg.sender, INITIAL_SUPPLY);
     }
     ```
-    ==Tee== is the token name.
-    ==T== is the symbol.
-    ==18== is the decimals.
+    `Tee` is the token name.
+    `T` is the symbol.
+    `18` is the decimals.
