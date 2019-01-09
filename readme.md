@@ -17,3 +17,5 @@ ERC20 example
     `Tee` is the token name.
     `T` is the symbol.
     `18` is the decimals.
+
+This is based on OpenZeppelin.
